@@ -1,0 +1,7 @@
+fastapi ==0.115.0 
+uvicorn ==0.30.6
+pydantic ==2.9.2
+
+#fastapi — framework principal para criar a API REST
+#uvicorn — servidor ASGI que executa a aplicação FastAPI
+#pydantic — biblioteca de validação e serialização de dados
