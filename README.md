@@ -126,9 +126,3 @@ Todas as operações foram testadas utilizando o **Insomnia**. As requisições 
 ## 📝 Licença
 
 Este projeto é fornecido como atividade avaliativa para a disciplina de Programação de Sistemas Distribuídos.
-
----
-
-## 📧 Contato
-
-Para dúvidas ou sugestões, entre em contato com o autor.
